@@ -1,0 +1,54 @@
+
+.mainLoginBg {
+    background-color: #e5e5ed !important;
+    background-image: url(/img/bg/background_1920-7.jpg);
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.cr-content {
+    background-color: #e5e5ed !important;
+    background-image: url(/img/bg/background_1920-7.png);    
+}
+
+@media screen and (orientation:portrait) {
+    .mainLoginBg {
+        background-image: url('');
+    }
+}
+
+.imgLogin{
+    width: 30%;
+
+}
+.continerLogin{
+    height: 100%;
+}
+.box_login  {
+    background-color: #1b3057 !important;
+    border-color: #000;
+    opacity: 0.80;
+    filter: alpha(opacity=90); /* For IE8 and earlier */
+}
+
+.btnLogin{
+    width: 100%;
+}
+
+.btn-outline-info{
+    color: white;
+    border-color: white;
+}
+
+.linkChangeButton{
+    color: white;
+    cursor: pointer;
+    text-align: center;
+}
+
+.linkChangeButton:hover{
+    text-decoration: underline;
+}

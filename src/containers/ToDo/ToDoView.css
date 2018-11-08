@@ -1,0 +1,19 @@
+
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');
+
+.Postit {
+    font-family: 'Indie Flower', cursive;
+    font-size: 25px;
+    background-image: url(/img/postit.png);
+    height: 205px;
+    width: 211px;
+    padding-left:24px;
+    padding-right: 24px;
+    padding-top: 13px; 
+}
+
+.TitleToDo{
+    font-family: 'Indie Flower', cursive;
+    font-size: 55px;
+    text-align: center;
+}
